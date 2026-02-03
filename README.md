@@ -51,16 +51,15 @@ SkillPulse/
 ├─ models.py
 ├─ analytics.py
 ├─ skillpulse_logo.png
-
 ---
 
 ## 📷 Capturas de pantalla
 
-![Pantalla principal](capturas/pantalla_principal.png)  
-![Añadir actividad](capturas/añadir_actividad.png)  
-![Insights automáticos](capturas/insights_automaticos.png)  
-![Gráficos](capturas/graficos.png)  
-![Actividades registradas](capturas/actividades_registradas.png)  
+<img src="capturas/pantalla_principal.png" width="350" />  
+<img src="capturas/añadir_actividad.png" width="350" />  
+<img src="capturas/insights_automaticos.png" width="350" />  
+<img src="capturas/graficos.png" width="350" />  
+<img src="capturas/actividades_registradas.png" width="350" /> 
 
 ---
 
